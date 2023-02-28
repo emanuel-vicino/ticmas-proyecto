@@ -1,0 +1,65 @@
+body{
+    font-family: 'Labrada', serif;
+    font-size: larger;
+    background-color: #F8FFEF;
+    
+}
+
+.encabezado{
+    background-color: #48846D;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#datos{
+    background-color: #48846D;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#nombre{
+    display: none;
+    width: 80%;
+    height: auto;
+    margin: 3%;
+}
+
+
+#exptitulo{
+    background-color: #48846D;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#parrafo{
+    display: none;
+    width: 80%;
+    height: auto;
+    margin:3%;
+}
+
+#habilidades{
+    background-color: #48846D;
+    text-align: center;
+    border-radius: 30px; 
+}
+
+#lista{
+    display: none;
+    width: 80%;
+    height: auto;
+    margin:3%;
+}
+
+#contacto{
+    background-color: #48846D;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#info{
+    display: none;
+    width: 80%;
+    height: auto;
+    margin:3%;
+}
